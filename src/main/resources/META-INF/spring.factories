@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration = com.nice.starterironbank.Config
+org.springframework.context.ApplicationContextInitializer = com.nice.starterironbank.ProfileSentinelApplicationContextInitializer
+org.springframework.boot.env.EnvironmentPostProcessor = com.nice.starterironbank.ProfileAutoDetectorEnvironmentPostProcessor
